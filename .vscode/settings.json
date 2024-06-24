@@ -1,3 +1,7 @@
 {
-    "python.analysis.typeCheckingMode": "basic"
+    "python.analysis.typeCheckingMode": "basic",
+    "sonarlint.connectedMode.project": {
+        "connectionId": "ktn37",
+        "projectKey": "KNguyen37_AIO-207"
+    }
 }
